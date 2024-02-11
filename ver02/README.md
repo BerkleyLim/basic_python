@@ -2,7 +2,7 @@
 
 ### window 환경에서 python 최초 설치 후, 진행 방법
 
-- 현재, uvicorn은 설치가 불가능 하며, fastapi만 설치하고 아래와 같이 실행합ㄴ디ㅏ.
+- 현재, uvicorn은 설치가 불가능 하며, fastapi만 설치하고 아래와 같이 실행합니다.
 
 ```
 pip install fastapi
